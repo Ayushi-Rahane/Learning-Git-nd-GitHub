@@ -1,0 +1,2 @@
+Step 1: Initializing a Git Repo
+cmd: git init
