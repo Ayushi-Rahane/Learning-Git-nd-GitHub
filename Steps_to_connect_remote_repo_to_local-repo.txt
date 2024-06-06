@@ -1,2 +1,8 @@
 Step 1: Initializing a Git Repo
 cmd: git init
+
+Step 2: connecting the remote repo to local repo
+cmd: git remote add origin https://github.com/Ayushi-Rahane/Learning-Git-nd-GitHub.git
+
+Step 3: push the changes
+cmd:  git push origin master
